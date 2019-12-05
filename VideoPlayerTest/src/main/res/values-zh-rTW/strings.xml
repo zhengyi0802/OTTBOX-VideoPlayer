@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">影片播放器測試</string>
+    <string name="label_url">影片位址 :</string>
+    <string name="label_vlc_button">VlcPlayer</string>
+    <string name="label_ijk_button">IjkPlayer</string>
+    <string name="label_double_button">Double</string>
+</resources>

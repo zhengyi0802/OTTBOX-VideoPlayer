@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VideoPlayerTest</string>
+    <string name="label_url">URL :</string>
+    <string name="label_vlc_button">VlcPlayer</string>
+    <string name="label_ijk_button">IjkPlayer</string>
+    <string name="label_double_button">Double</string>
+
+    <string name="label_default_url" translatable="false">https://videos.mundi-tv.tk/videos/_YPTuniqid_5dc244a523be79.76874716_Low.mp4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="recordstart" translatable="false">recordStart</string>
+    <string name="recordstop" translatable="false">recordStop</string>
+    <string name="change" translatable="false">changeFull</string>
+    <string name="snapshot" translatable="false">snapShot</string>
+
+</resources>

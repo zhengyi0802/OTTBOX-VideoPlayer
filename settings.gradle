@@ -1,0 +1,2 @@
+include ':VideoPlayerTest', ':IjkPlayerLibrary', ':VideoCache', ':MundiPlayer1'
+rootProject.name='VideoPlayer'
