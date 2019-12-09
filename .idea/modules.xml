@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IjkPlayerLibrary/IjkPlayerLibrary.iml" filepath="$PROJECT_DIR$/IjkPlayerLibrary/IjkPlayerLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MundiPlayer1/MundiPlayer1.iml" filepath="$PROJECT_DIR$/MundiPlayer1/MundiPlayer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoCache/VideoCache.iml" filepath="$PROJECT_DIR$/VideoCache/VideoCache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoPlayer.iml" filepath="$PROJECT_DIR$/VideoPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VideoPlayerTest/VideoPlayerTest.iml" filepath="$PROJECT_DIR$/VideoPlayerTest/VideoPlayerTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WBVideo/WBVideo.iml" filepath="$PROJECT_DIR$/WBVideo/WBVideo.iml" />
+    </modules>
+  </component>
+</project>
