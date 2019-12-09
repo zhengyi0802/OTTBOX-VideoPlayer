@@ -1,2 +1,2 @@
-include ':VideoPlayerTest', ':IjkPlayerLibrary', ':VideoCache', ':MundiPlayer1', ':WBVideo'
+include ':VideoPlayerTest', ':IjkPlayerLibrary', ':VideoCache', ':MundiPlayer1', ':WBVideo', ':MundiVideoPlayer'
 rootProject.name='VideoPlayer'

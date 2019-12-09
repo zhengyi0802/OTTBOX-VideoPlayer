@@ -36,4 +36,5 @@ dependencies {
     implementation files('libs/VideoCache-release.aar')
     implementation files('libs/easyflipviewpager-release.aar')
     implementation 'androidx.core:core-ktx:1.2.0-rc01'
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:${kotlin_version}"
 }
