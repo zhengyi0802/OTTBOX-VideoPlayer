@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_aars__:/work/Workspace/Android/ottapp/VideoPlayer/WBVideo/libs/easyflipviewpager-release.aar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4f87bb7466ab2e8927fe3f553a29c5f2/jetified-easyflipviewpager-release/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4f87bb7466ab2e8927fe3f553a29c5f2/jetified-easyflipviewpager-release/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

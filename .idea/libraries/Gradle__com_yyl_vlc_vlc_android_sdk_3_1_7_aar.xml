@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.yyl.vlc:vlc-android-sdk:3.1.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc0a0d94e6649db72f22973b1b67f147/vlc-android-sdk-3.1.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bc0a0d94e6649db72f22973b1b67f147/vlc-android-sdk-3.1.7/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yyl.vlc/vlc-android-sdk/3.1.7/9ddb5f11ebc75819edd31016cea02d98ff30ef4a/vlc-android-sdk-3.1.7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.yyl.vlc/vlc-android-sdk/3.1.7/8d7942d359ff2f101e0aa5397106d68add3628c7/vlc-android-sdk-3.1.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
