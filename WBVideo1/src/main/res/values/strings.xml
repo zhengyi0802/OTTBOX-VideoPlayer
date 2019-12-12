@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">WBVideo1</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="default_web" translatable="false">https://wbvideo.mundi-tv.tk/videos/</string>
+    <array name="array_urls" translatable="false">
+        <item>_YPTuniqid_5de71d0571add0.48790014</item>
+        <item>_YPTuniqid_5de71d8768cbc5.08874197</item>
+        <item>_YPTuniqid_5de7213b83eae5.59193532</item>
+        <item>_YPTuniqid_5de722aee3a891.35381303</item>
+        <item>_YPTuniqid_5de723241f63c0.10968241</item>
+        <item>_YPTuniqid_5de723c2d45369.92087886</item>
+        <item>_YPTuniqid_5de723e7ec3933.45731042</item>
+        <item>_YPTuniqid_5de72861e9f6e7.95154030</item>
+        <item>_YPTuniqid_5de72995735b25.66194902</item>
+        <item>_YPTuniqid_5de729d256c706.32714733</item>
+    </array>
+
+</resources>
